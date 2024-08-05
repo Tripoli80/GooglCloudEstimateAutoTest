@@ -52,3 +52,7 @@ When performing the task, you need to use the capabilities of Selenium WebDriver
 7. Click Add to Estimate
 8. Check the correspondence of the data of the following fields: VM Class, Instance type, Region, local SSD, commitment term
 9. Check that the rental amount per month matches the amount received when passing the test manually.
+
+## Demo
+
+https://youtu.be/tUguL0_AOjg
